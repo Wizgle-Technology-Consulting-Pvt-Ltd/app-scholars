@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "17757389221",
+    "firebase_url": "https://holyfaith.firebaseio.com",
+    "project_id": "holyfaith",
+    "storage_bucket": "holyfaith.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:41f9008083bb4fe7",
+        "android_client_info": {
+          "package_name": "com.app.HolyFaithHarda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:2f543534de420de92ce84c",
+        "android_client_info": {
+          "package_name": "com.app.SchoolFour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-8i9a57an80rbvfuu22q9qf770er1kvf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.SchoolFour",
+            "certificate_hash": "39adf53a0044cfdc5aa0191efb2fe3bb522b5ad6"
+          }
+        },
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:30c04b0569723c2d2ce84c",
+        "android_client_info": {
+          "package_name": "com.app.SchoolThree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-o5p5u12oiooqmu28igf8mbk46ta1hetu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.SchoolThree",
+            "certificate_hash": "39adf53a0044cfdc5aa0191efb2fe3bb522b5ad6"
+          }
+        },
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:0d765b4922b4188c2ce84c",
+        "android_client_info": {
+          "package_name": "io.beedu.holyfaith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:dcf21d68b07651652ce84c",
+        "android_client_info": {
+          "package_name": "io.beedu.lusaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17757389221:android:76f2ca130e165bd52ce84c",
+        "android_client_info": {
+          "package_name": "io.beedu.uran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeSStvdlKook7mfUN_KUsHcIXGliuhis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17757389221-d56vsslpji36opgr48c448gu9luht4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

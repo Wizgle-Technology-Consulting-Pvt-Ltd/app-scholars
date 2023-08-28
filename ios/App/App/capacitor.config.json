@@ -1,0 +1,15 @@
+{
+	"appId": "io.beedu.lusaka",
+	"appName": "ISOL",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	}
+}
